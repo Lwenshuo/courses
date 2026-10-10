@@ -11,11 +11,22 @@
 课件以 PDF 发布，程序以 ZIP 提供。现有课件与程序包说明为中文。
 Slides are published as PDFs and code as ZIP archives. Current slides and bundled documentation are in Chinese.
 
+## 机器人导航 / Robot Navigation
+
+- [课程主页 / Course homepage](https://lwenshuo.github.io/courses/navigation/)
+- [第一至第三周 PDF 课件](navigation/README.md)
+- [Ref：参考资料、原作者引用与致谢](navigation/ref/README.md)
+
+课程课件参考张虎（xiihoo）老师《机器人SLAM导航：核心技术与实战》及配套资料，感谢原作者的资源分享。
+
 ## Structure
 
 - `robotic-manipulation/index.html`: Chinese course homepage
 - `robotic-manipulation/en/index.html`: English course homepage
 - `robotic-manipulation/materials/`: PDF slides, MATLAB archive, and supporting notes
+- `navigation/index.html`: Robot Navigation course homepage
+- `navigation/materials/`: Weekly PDF slides
+- `navigation/ref/README.md`: Original sources and acknowledgements
 
 ## Publishing
 
